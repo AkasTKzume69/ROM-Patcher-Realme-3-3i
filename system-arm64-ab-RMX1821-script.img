@@ -1,0 +1,287 @@
+#set CPU > Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, Core 0 20000Mhz, Core 1 20000Mhz, Core 2 20000Mhz, Core 3 20000Mhz, Core 4 20000Mhz, Core 5 20000Mhz, Core 6 20000Mhz, Core 7 20000Mhz, 
+#!/system/bin/sh
+#
+# Default settings
+#
+###################################
+# GED modules
+###################################
+echo 0 >/sys/module/ged/parameters/gx_game_mode
+echo 0 >/sys/module/ged/parameters/gx_force_cpu_boost
+echo 0 > /sys/module/ged/parameters/gx_boost_on
+echo 0 > /sys/module/ged/parameters/boost_amp
+echo 0 > /sys/module/ged/parameters/boost_extra
+echo 0 > /sys/module/ged/parameters/boost_gpu_enable
+echo 0 > /sys/module/ged/parameters/enable_cpu_boost
+echo 0 > /sys/module/ged/parameters/enable_gpu_boost
+echo 0 > /sys/module/ged/parameters/enable_game_self_frc_detect
+echo 10 > /sys/module/ged/parameters/gpu_idle
+echo 100 > /sys/module/ged/parameters/cpu_boost_policy
+echo 1 > /sys/module/ged/parameters/ged_force_mdp_enable
+echo 0 > /sys/module/ged/parameters/ged_boost_enable
+echo 1 > /sys/module/ged/parameters/ged_smart_boost
+echo 0 > /sys/module/ged/parameters/gx_frc_mode
+echo 0 > /sys/module/ged/parameters/gx_3D_benchmark_on
+
+###################################
+# CPU frequency Modes
+###################################
+echo 0 > /proc/cpufreq/cpufreq_cci_mode
+echo 0 > /proc/cpufreq/cpufreq_power_mode
+
+###################################
+# PPM
+###################################
+echo 0 > /proc/ppm/enabled
+
+###################################
+# PPM_POLICY_SYS_BOOST
+###################################
+echo 0 0 > /proc/ppm/policy_status
+echo 1 0 > /proc/ppm/policy_status
+echo 2 0 > /proc/ppm/policy_status
+echo 3 0 > /proc/ppm/policy_status
+echo 4 0 > /proc/ppm/policy_status
+echo 5 0 > /proc/ppm/policy_status
+echo 6 0 > /proc/ppm/policy_status
+echo 7 0 > /proc/ppm/policy_status
+echo 8 0 > /proc/ppm/policy_status
+echo 9 0 > /proc/ppm/policy_status
+
+###################################
+# Limit CPU frequency
+###################################
+echo 0 1733000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq # big cluster
+echo 1 1923000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq # LITTLE
+echo 0 2000000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq # big cluster
+echo 1 2000000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq # LITTLE cluster
+
+###################################
+# CPU sets
+###################################
+echo 0-7 > /dev/cpuset/top-app/cpus
+echo 0-3,6-7 > /dev/cpuset/foreground/boost/cpus
+echo 0-3,6-7 > /dev/cpuset/foreground/cpus
+echo 0-3 > /dev/cpuset/background/cpus
+echo 0-5 > /dev/cpuset/system-background/cpus
+echo 0-7 > /dev/cpuset/restricted/cpus
+
+###################################
+# GPU Power Policy
+###################################
+echo 0 > /proc/mali/always_on
+echo adaptive > /sys/devices/platform/13040000.mali/power_policy
+
+###################################
+# Lock GPU frequency
+###################################
+echo 0 > /proc/gpufreq/gpufreq_opp_freq
+
+###################################
+# Set sched to hybrid (HMP,EAS)
+###################################
+echo 2 > /sys/devices/system/cpu/eas/enable
+
+###################################
+# Schedutil rate-limit
+###################################
+echo 10000 > /sys/devices/system/cpu/cpufreq/schedutil/down_rate_limit_us
+echo 10000 > /sys/devices/system/cpu/cpufreq/schedutil/up_rate_limit_us
+
+###################################
+# Oppo Touchpanel
+###################################
+echo 1 > /proc/touchpanel/oppo_tp_limit_enable
+echo 0 > /proc/touchpanel/oppo_tp_direction
+echo 0 > /proc/touchpanel/game_switch_enable
+case $1 in
+0)
+# Balanced profile(use all default settings)
+	;;
+1)
+###################################
+# GED modules
+###################################
+echo 0 >/sys/module/ged/parameters/gx_game_mode
+echo 0 >/sys/module/ged/parameters/gx_force_cpu_boost
+echo 0 > /sys/module/ged/parameters/gx_boost_on
+echo 0 > /sys/module/ged/parameters/boost_amp
+echo 0 > /sys/module/ged/parameters/boost_extra
+echo 0 > /sys/module/ged/parameters/boost_gpu_enable
+echo 0 > /sys/module/ged/parameters/enable_cpu_boost
+echo 0 > /sys/module/ged/parameters/enable_gpu_boost
+echo 0 > /sys/module/ged/parameters/enable_game_self_frc_detect
+echo 10 > /sys/module/ged/parameters/gpu_idle
+echo 100 > /sys/module/ged/parameters/cpu_boost_policy
+echo 1 > /sys/module/ged/parameters/ged_force_mdp_enable
+echo 0 > /sys/module/ged/parameters/ged_boost_enable
+echo 1 > /sys/module/ged/parameters/ged_smart_boost
+echo 0 > /sys/module/ged/parameters/gx_frc_mode
+echo 0 > /sys/module/ged/parameters/gx_3D_benchmark_on
+
+###################################
+# CPU frequency Modes
+###################################
+echo 0 > /proc/cpufreq/cpufreq_cci_mode
+echo 1 > /proc/cpufreq/cpufreq_power_mode
+
+###################################
+# PPM
+###################################
+echo 0 > /proc/ppm/enabled
+
+###################################
+# PPM_POLICY_SYS_BOOST
+###################################
+echo 0 0 > /proc/ppm/policy_status
+echo 1 0 > /proc/ppm/policy_status
+echo 2 0 > /proc/ppm/policy_status
+echo 3 0 > /proc/ppm/policy_status
+echo 4 0 > /proc/ppm/policy_status
+echo 5 0 > /proc/ppm/policy_status
+echo 6 0 > /proc/ppm/policy_status
+echo 7 0 > /proc/ppm/policy_status
+echo 8 0 > /proc/ppm/policy_status
+echo 9 0 > /proc/ppm/policy_status
+
+###################################
+# Limit CPU frequency
+###################################
+echo 0 1733000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq # big cluster
+echo 1 1923000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq # LITTLE
+echo 0 2000000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq # big cluster
+echo 1 2000000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq # LITTLE cluster
+
+###################################
+# CPU sets
+###################################
+echo 0-7 > /dev/cpuset/top-app/cpus
+echo 0-3,6-7 > /dev/cpuset/foreground/boost/cpus
+echo 0-3,6-7 > /dev/cpuset/foreground/cpus
+echo 0-3 > /dev/cpuset/background/cpus
+echo 0-5 > /dev/cpuset/system-background/cpus
+echo 0-7 > /dev/cpuset/restricted/cpus
+
+###################################
+# GPU Power Policy
+###################################
+echo 0 > /proc/mali/always_on
+echo adaptive > /sys/devices/platform/13040000.mali/power_policy
+
+###################################
+# Lock GPU frequency
+###################################
+echo 0 > /proc/gpufreq/gpufreq_opp_freq
+
+###################################
+# Set sched to hybrid (HMP,EAS)
+###################################
+echo 2 > /sys/devices/system/cpu/eas/enable
+
+###################################
+# Schedutil rate-limit
+###################################
+echo 0 > /sys/devices/system/cpu/cpufreq/schedutil/down_rate_limit_us
+echo 0 > /sys/devices/system/cpu/cpufreq/schedutil/up_rate_limit_us
+
+###################################
+# Oppo Touchpanel
+###################################
+echo 1 > /proc/touchpanel/oppo_tp_limit_enable
+echo 0 > /proc/touchpanel/oppo_tp_direction
+echo 0 > /proc/touchpanel/game_switch_enable
+	;;
+2)
+###################################
+# GED modules
+###################################
+echo 1 >/sys/module/ged/parameters/gx_game_mode
+echo 1 >/sys/module/ged/parameters/gx_force_cpu_boost
+echo 1 > /sys/module/ged/parameters/gx_boost_on
+echo 1 > /sys/module/ged/parameters/boost_amp
+echo 1 > /sys/module/ged/parameters/boost_extra
+echo 1 > /sys/module/ged/parameters/boost_gpu_enable
+echo 1 > /sys/module/ged/parameters/enable_cpu_boost
+echo 1 > /sys/module/ged/parameters/enable_gpu_boost
+echo 1 > /sys/module/ged/parameters/enable_game_self_frc_detect
+echo 10 > /sys/module/ged/parameters/gpu_idle
+echo 100 > /sys/module/ged/parameters/cpu_boost_policy
+echo 0 > /sys/module/ged/parameters/ged_force_mdp_enable
+echo 1 > /sys/module/ged/parameters/ged_boost_enable
+echo 100 > /sys/module/ged/parameters/ged_smart_boost
+echo 1 > /sys/module/ged/parameters/gx_frc_mode
+echo 1 > /sys/module/ged/parameters/gx_3D_benchmark_on
+
+###################################
+# CPU frequency Modes
+###################################
+echo 1 > /proc/cpufreq/cpufreq_cci_mode
+echo 3 > /proc/cpufreq/cpufreq_power_mode
+
+###################################
+# PPM
+###################################
+echo 1 > /proc/ppm/enabled
+
+###################################
+# PPM_POLICY_SYS_BOOST
+###################################
+echo 0 0 > /proc/ppm/policy_status
+echo 1 1 > /proc/ppm/policy_status
+echo 2 0 > /proc/ppm/policy_status
+echo 3 0 > /proc/ppm/policy_status
+echo 4 0 > /proc/ppm/policy_status
+echo 5 0 > /proc/ppm/policy_status
+echo 6 1 > /proc/ppm/policy_status
+echo 7 1 > /proc/ppm/policy_status
+echo 8 0 > /proc/ppm/policy_status
+echo 9 1 > /proc/ppm/policy_status
+
+###################################
+# Limit CPU frequency
+###################################
+echo 0 1733000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq # big cluster
+echo 1 1923000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq # LITTLE
+echo 0 2000000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq # big cluster
+echo 1 2000000 > /proc/ppm/policy/hard_userlimit_max_cpu_freq # LITTLE cluster
+
+###################################
+# CPU sets
+###################################
+echo 0-7 > /dev/cpuset/top-app/cpus
+echo 0-3,6-7 > /dev/cpuset/foreground/boost/cpus
+echo 0-3,6-7 > /dev/cpuset/foreground/cpus
+echo 0 > /dev/cpuset/background/cpus
+echo 0-3 > /dev/cpuset/system-background/cpus
+echo 0-3 > /dev/cpuset/restricted/cpus
+
+###################################
+# GPU Power Policy
+###################################
+echo 1 > /proc/mali/always_on
+echo always_on > /sys/devices/platform/13040000.mali/power_policy
+
+###################################
+# Lock GPU frequency
+###################################
+echo 800000 > /proc/gpufreq/gpufreq_opp_freq
+
+###################################
+# Set sched to eas (HMP,EAS)
+###################################
+echo 1 > /sys/devices/system/cpu/eas/enable
+
+###################################
+# Schedutil rate-limit
+###################################
+echo 50000 > /sys/devices/system/cpu/cpufreq/schedutil/down_rate_limit_us
+echo 0 > /sys/devices/system/cpu/cpufreq/schedutil/up_rate_limit_us
+
+###################################
+# Oppo Touchpanel
+###################################
+echo 0 > /proc/touchpanel/oppo_tp_limit_enable
+echo 1 > /proc/touchpanel/oppo_tp_direction
+echo 1 > /proc/touchpanel/game_switch_enable
+	;;
+esac
