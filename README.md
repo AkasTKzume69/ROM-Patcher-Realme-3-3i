@@ -1,4 +1,4 @@
-<h3 align="center">Warning⚠️</h1>
+<h3 align="center">Warning⚠️</h3>
 <h6 align="center"> <strong>
 Your warranty is now void.
 </div> </strong>
@@ -15,7 +15,7 @@ You are choosing to make these modifications, and if you point the finger at me 
 <img src="https://raw.githubusercontent.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/LineageOS-Fan-Edition-11.69-Isobar-20220317/assets/ROMPatcher.png" />
 </p>
 </div>
-<h3 align="center">ROM Patcher Realme 3/3i</h1>
+<h3 align="center">ROM Patcher Realme 3/3i</h3>
 <h6 align="center">
   <strong>This patch improve and enhance your gaming experience including CPU, GPU, Touch Tweaks, etc. It also patch Realme Settings Profiles.
 </div>
@@ -31,13 +31,23 @@ You are choosing to make these modifications, and if you point the finger at me 
 <h3 div align="center">
     <a href="https://t.me/AkasTKzumeOFFICIAL">
       Support Group
-</a> </div>
-
-
-
+</a> </div> </strong> </h3>
+<div>
+<h3 align="center">Installation</h3>
+<h6 align="center"><strong>Flash through custom recovery only.
+</div> </strong> </h3>
+<div>
+<h3 align="center">Frequently Asked Questions</h3>
+<h6 align="left"><strong>1. Can i dirty flash? Yes
+</div> </strong> </h3>
+<div>
+<h6 align="left"><strong>2. Can i flash in other ROMs? No (Unless you gonna port it).
+</div> </strong> </h3>
+<div>
 <h3 div align="center">
 <img src="https://img.shields.io/badge/Last Updated-December 24, 2022-blue.svg?longCache=true&style=For-The-Badge"
       alt="_time_stamp_" />
+</div>
 <div>
 <img src="https://img.shields.io/badge/Minimum Magisk Version-23-red.svg?longCache=true&style=For-The-Badge"
       alt="_time_stamp_" />
