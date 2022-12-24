@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:335         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Realme/dot_RMX1821/RMX1821:11/RQ1D.210205.004/realmemeass02250306:userdebug/test-keys
+post-build-incremental=eng.realme.20210225.030631
+post-sdk-level=30
+post-security-patch-level=2021-02-05
+post-timestamp=1614222371
+pre-device=RMX1821,RMX1822,RMX1823,RMX1825,RMX1827
