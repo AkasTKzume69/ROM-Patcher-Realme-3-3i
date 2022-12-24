@@ -1,8 +1,16 @@
 <h2 align="center">Warning⚠️</h1>
-<div align="center">Your warranty is now void.
-I am not responsible for bootloop and bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this module before installing or flashing it! You are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
-  <strong>
-</div>
+<div align="center"> <strong>
+Your warranty is now void.
+</div> </strong>
+<div align="center"> <strong>
+I am not responsible for bootloop and bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+</div> </strong>
+<div align="center"> <strong>
+Please do some research if you have any concerns about features included in this module before installing or flashing it!
+</div> </strong>
+<div align="center"> <strong>
+You are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+</div> </strong>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/LineageOS-Fan-Edition-Isobar-11.69-20220317/assets/ROMPatcher.png" />
 </p>
