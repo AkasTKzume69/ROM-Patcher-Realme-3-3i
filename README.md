@@ -1,5 +1,5 @@
-<h2 align="center">Warning⚠️</h1>
-<div align="center"> <strong>
+<h3 align="center">Warning⚠️</h1>
+<h5 align="center"> <strong>
 Your warranty is now void.
 </div> </strong>
 <div align="center"> <strong>
@@ -15,8 +15,8 @@ You are choosing to make these modifications, and if you point the finger at me 
 <img src="https://raw.githubusercontent.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/LineageOS-Fan-Edition-Isobar-11.69-20220317/assets/ROMPatcher.png" />
 </p>
 </div>
-<h2 align="center">ROM Patcher Realme 3/3i</h1>
-<div align="center">
+<h3 align="center">ROM Patcher Realme 3/3i</h1>
+<h5 align="center">
   <strong>This patch improve and enhance your gaming experience including CPU, GPU, Touch Tweaks, etc. It also patch Realme Settings Profiles.
 </div>
 <div align="center">
