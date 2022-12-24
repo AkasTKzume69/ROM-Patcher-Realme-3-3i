@@ -1,12 +1,12 @@
 <h3 align="center">Warning⚠️</h1>
-<h5 align="center"> <strong>
+<h6 align="center"> <strong>
 Your warranty is now void.
 </div> </strong>
 <div align="center"> <strong>
 I am not responsible for bootloop and bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
 </div> </strong>
 <div align="center"> <strong>
-Please do some research if you have any concerns about features included in this module before installing or flashing it!
+Please do some research if you have any concerns about features included in this patch before installing or flashing it!
 </div> </strong>
 <div align="center"> <strong>
 You are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
@@ -16,7 +16,7 @@ You are choosing to make these modifications, and if you point the finger at me 
 </p>
 </div>
 <h3 align="center">ROM Patcher Realme 3/3i</h1>
-<h5 align="center">
+<h6 align="center">
   <strong>This patch improve and enhance your gaming experience including CPU, GPU, Touch Tweaks, etc. It also patch Realme Settings Profiles.
 </div>
 <div align="center">
