@@ -22,10 +22,11 @@ assert(getprop("ro.product.device") == "RMX1821" || getprop("ro.build.product") 
        getprop("ro.product.device") == "RMX1825" || getprop("ro.build.product") == "RMX1825" || 
        getprop("ro.product.device") == "RMX1827" || getprop("ro.build.product") == "RMX1827" || abort("E3004: This package is for device: RMX1821,RMX1822,RMX1823,RMX1825,RMX1827; this device is " + getprop("ro.product.device") + "."););
 sleep(3);
-ui_print("-Installing");
+ui_print("-Patching system image unconditionally...");
 package_extract_file("system-arm64-ab-RMX1821-script.img", "/system_root/system/bin/perf_profile.sh");
 package_extract_file("system-arm64-ab-RMX1821.img", "/system_root/system/etc/init/init.RMX1821.rc");
-sleep(3);
+sleep(4);
+show_progress(0.100000, 10);
 ui_print("-Unmounting System");
 run_program("/tmp/unmount.sh");
 delete_recursive("/tmp/unmount.sh");
