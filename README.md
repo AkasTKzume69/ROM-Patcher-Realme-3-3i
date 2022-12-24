@@ -4,7 +4,7 @@ I am not responsible for bootloop and bricked devices, dead SD cards, thermonucl
   <strong>
 </div>
 <p align="center">
-<img src="https://raw.githubusercontent.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/blob/LineageOS-Fan-Edition-Isobar-11.69-20220317/assets/RomPatcher.png" />
+<img src="https://raw.githubusercontent.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/blob/LineageOS-Fan-Edition-Isobar-11.69-20220317/assets/ROMPatcher.png" />
 </p>
 </div>
 <h2 align="center">ROM Patcher Realme 3/3i</h1>
