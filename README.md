@@ -24,7 +24,7 @@ You are choosing to make these modifications, and if you point the finger at me 
     <a href="https://github.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/blob/LineageOS-Fan-Edition-11.69-Isobar-20220317/changelog.md">
       Changelog
 <span> | </span>
-    <a href="">
+    <a href="https://sourceforge.net/projects/akastkzume-files/files/ROM%20Patcher%20Realme%203-3i/LineageOS%20Fan%20Edition%2011.69%20Isobar%2020220317/">
       Download
 </a> </div>
 <a> </div>
