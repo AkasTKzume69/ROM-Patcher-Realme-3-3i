@@ -19,7 +19,6 @@ You are choosing to make these modifications, and if you point the finger at me 
 <h6 align="center">
   <strong>This patch improve and enhance your gaming experience including CPU, GPU, Touch Tweaks, etc. It also patch Realme Settings Profiles.
 </div>
-
 <h3 div align="center">
     <a href="https://github.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/blob/LineageOS-Fan-Edition-11.69-Isobar-20220317/changelog.md">
       Changelog
@@ -32,18 +31,14 @@ You are choosing to make these modifications, and if you point the finger at me 
     <a href="https://t.me/AkasTKzumeOFFICIAL">
       Support Group
 </a> </div> </strong> </h3>
-<div>
 <h3 align="center">Installation</h3>
 <h6 align="center"><strong>Flash through custom recovery only.
-</div> </strong> </h3>
-<div>
+</strong> </h3>
 <h3 align="center">Frequently Asked Questions</h3>
-<h6 align="left"><strong>1. Can i dirty flash? Yes
-</div> </strong> </h3>
-<div>
-<h6 align="left"><strong>2. Can i flash in other ROMs? No (Unless you gonna port it).
-</div> </strong> </h3>
-<div>
+<h6 align="center"><strong>1. Can i dirty flash? Yes
+</strong> </h3>
+<h6 align="center"><strong>2. Can i flash in other ROMs? No (Unless you gonna port it).
+</strong> </h3>
 <h3 div align="center">
 <img src="https://img.shields.io/badge/Last Updated-December 24, 2022-blue.svg?longCache=true&style=For-The-Badge"
       alt="_time_stamp_" />
