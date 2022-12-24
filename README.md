@@ -21,7 +21,7 @@ You are choosing to make these modifications, and if you point the finger at me 
 </div>
 
 <h3 div align="center">
-    <a href="https://github.com/AkasTKzume69/blob/ROM-Patcher-Realme-3-3i/LineageOS-Fan-Edition-11.69-Isobar-20220317/changelog.md">
+    <a href="https://github.com/AkasTKzume69/ROM-Patcher-Realme-3-3i/blob/LineageOS-Fan-Edition-11.69-Isobar-20220317/changelog.md">
       Changelog
 <span> | </span>
     <a href="">
