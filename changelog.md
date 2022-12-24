@@ -6,6 +6,7 @@ V1-20221224 (December 24 2022)
 <h6>
 
 * Initial build.
+* Compiled with MTM 2.12.1.
 * Introduced Stable flash script.
 * Shipped with Stable GED modules.
 * Fixed init.RMX1821.rc Performance Profile.
