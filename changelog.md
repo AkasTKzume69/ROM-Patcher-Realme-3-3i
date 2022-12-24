@@ -1,5 +1,14 @@
 <h2>
 <strong>
+V1-Hotfix-20221224 (December 24 2022)
+</strong>
+</h5>
+<h6>
+
+* Fixed Video bug.
+
+<h2>
+<strong>
 V1-20221224 (December 24 2022)
 </strong>
 </h5>
