@@ -9,7 +9,7 @@ I am not responsible for bootloop and bricked devices, dead SD cards, thermonucl
 </div>
 <h2 align="center">ROM Patcher Realme 3/3i</h1>
 <div align="center">
-  <strong>This patch improve and enhance your gaming experience including CPU, GPU, Touch Tweaks, etc. It also patch Realme Settings Profiles.🙂
+  <strong>This patch improve and enhance your gaming experience including CPU, GPU, Touch Tweaks, etc. It also patch Realme Settings Profiles.
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Last Updated-December 24, 2022-blue.svg?longCache=true&style=For-The-Badge"
