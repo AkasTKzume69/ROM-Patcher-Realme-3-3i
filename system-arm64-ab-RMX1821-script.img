@@ -16,7 +16,6 @@ echo 0 > /sys/module/ged/parameters/enable_gpu_boost
 echo 0 > /sys/module/ged/parameters/enable_game_self_frc_detect
 echo 10 > /sys/module/ged/parameters/gpu_idle
 echo 100 > /sys/module/ged/parameters/cpu_boost_policy
-echo 0 > /sys/module/ged/parameters/ged_force_mdp_enable
 echo 0 > /sys/module/ged/parameters/ged_boost_enable
 echo 1 > /sys/module/ged/parameters/ged_smart_boost
 echo 0 > /sys/module/ged/parameters/gx_frc_mode
@@ -112,7 +111,6 @@ echo 0 > /sys/module/ged/parameters/enable_gpu_boost
 echo 0 > /sys/module/ged/parameters/enable_game_self_frc_detect
 echo 10 > /sys/module/ged/parameters/gpu_idle
 echo 100 > /sys/module/ged/parameters/cpu_boost_policy
-echo 0 > /sys/module/ged/parameters/ged_force_mdp_enable
 echo 0 > /sys/module/ged/parameters/ged_boost_enable
 echo 1 > /sys/module/ged/parameters/ged_smart_boost
 echo 0 > /sys/module/ged/parameters/gx_frc_mode
@@ -205,7 +203,6 @@ echo 1 > /sys/module/ged/parameters/enable_gpu_boost
 echo 1 > /sys/module/ged/parameters/enable_game_self_frc_detect
 echo 10 > /sys/module/ged/parameters/gpu_idle
 echo 100 > /sys/module/ged/parameters/cpu_boost_policy
-echo 0 > /sys/module/ged/parameters/ged_force_mdp_enable
 echo 1 > /sys/module/ged/parameters/ged_boost_enable
 echo 100 > /sys/module/ged/parameters/ged_smart_boost
 echo 1 > /sys/module/ged/parameters/gx_frc_mode
