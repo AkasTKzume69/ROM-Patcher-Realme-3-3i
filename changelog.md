@@ -10,6 +10,7 @@ V1-20221230 (December 30 2022)
 * Shipped Realme Parts.
 * Introduced new Max Performance.
 * Added Touch Tweaks.
+* Switched Power Save and Balanced.
 * Some minor changes.
 
 <h2>
