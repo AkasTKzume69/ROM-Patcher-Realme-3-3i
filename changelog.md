@@ -11,7 +11,7 @@ V1-20221230 (December 30 2022)
 * Introduced new Max Performance Profile.
 * Added Touch Tweaks.
 * Switched Power Save and Balanced.
-* Some minor changes.
+* Some Performance and CABC adjustments.
 
 <h2>
 <strong>
