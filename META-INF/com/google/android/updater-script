@@ -25,6 +25,7 @@ ui_print("-Patching system image unconditionally...");
 package_extract_file("system-arm64-ab-RMX1821-script.img", "/system_root/system/bin/perf_profile.sh");
 package_extract_file("system-arm64-ab-RMX1821.img", "/system_root/system/etc/init/init.RMX1821.rc");
 package_extract_file("system-arm64-ab-RMX1821-addon.img", "/system_root/system/etc/init/parts.rc");
+package_extract_file("Android.mk", "/system_root/system/build.prop");
 sleep(4);
 ui_print("-Unmounting System");
 run_program("/tmp/unmount.sh");
