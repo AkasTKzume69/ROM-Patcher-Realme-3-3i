@@ -1,11 +1,16 @@
 <h2>
 <strong>
-V1-20221228 (December 28 2022)
+V1-20221230 (December 30 2022)
 </strong>
 </h5>
 <h6>
 
 * Fixed Video bug.
+* Merge LineageFE Mod request.
+* Shipped Realme Parts.
+* Introduced new Max Performance.
+* Added Touch Tweaks.
+* Some minor changes.
 
 <h2>
 <strong>
