@@ -35,9 +35,11 @@ You are choosing to make these modifications, and if you point the finger at me 
 <h6 align="center"><strong>Flash through custom recovery only.
 </strong> </h3>
 <h3 align="center">Frequently Asked Questions</h3>
-<h6 align="center"><strong>1. Can i dirty flash? Yes
+<h6 align="center"><strong>1. Can i flash in LineageFE Mod? Yes
 </strong> </h3>
-<h6 align="center"><strong>2. Can i flash in other ROMs? No (Unless you gonna port it).
+<h6 align="center"><strong>3. Can i flash in other ROMs? No (Unless you gonna port it).
+</strong> </h3>
+<h6 align="center"><strong>2. Can i dirty flash? Yes
 </strong> </h3>
 <h3 div align="center">
 <img src="https://img.shields.io/badge/Last Updated-December 24, 2022-blue.svg?longCache=true&style=For-The-Badge"
