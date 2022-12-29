@@ -8,7 +8,7 @@ V1-20221230 (December 30 2022)
 * Fixed Video bug.
 * Merge LineageFE Mod request.
 * Shipped Realme Parts.
-* Introduced new Max Performance.
+* Introduced new Max Performance Profile.
 * Added Touch Tweaks.
 * Switched Power Save and Balanced.
 * Some minor changes.
