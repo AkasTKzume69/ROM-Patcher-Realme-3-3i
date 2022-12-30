@@ -47,14 +47,23 @@ on post-fs
     umount /vendor/etc/fstab.mt6771
 
 # Performance profiles
-on property:persist.perf_profile=1
-    exec - root -- /system/bin/perf_profile.sh 1
 
+# Power Save + CABC Aggressive
 on property:persist.perf_profile=0
     exec - root -- /system/bin/perf_profile.sh 0
-
+    write /sys/kernel/oppo_display/cabc 3
+# Balanced + CABC Balanced
+on property:persist.perf_profile=1
+    exec - root -- /system/bin/perf_profile.sh 1
+    write /sys/kernel/oppo_display/cabc 2
+# Performance + CABC Off
 on property:persist.perf_profile=2
     exec - root -- /system/bin/perf_profile.sh 2
+    write /sys/kernel/oppo_display/cabc 0
+# Max Performance + CABC Off
+on property:persist.perf_profile=3
+    exec - root -- /system/bin/perf_profile.sh 3
+    write /sys/kernel/oppo_display/cabc 0
 
 on property:sys.boot_completed=1
     chown root root /sys/module/ged/parameters/gx_force_cpu_boost
