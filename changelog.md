@@ -5,6 +5,7 @@ V1-20221230 (December 30 2022)
 </h5>
 <h6>
 
+* Compiled with MTM 2.12.3
 * Fixed Video bug.
 * Merge LineageFE Mod request.
 * Shipped Realme Parts.
