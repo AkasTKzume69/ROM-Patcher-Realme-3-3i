@@ -7,7 +7,7 @@ V2-20221230 (December 30 2022)
 
 * Compiled with MTM 2.12.3
 * Fixed Video bug.
-* Merge LineageFE Mod request.
+* Merge LineageFE Mod V2 request.
 * Shipped Realme Parts.
 * Introduced new Max Performance Profile.
 * Added Touch Tweaks.
