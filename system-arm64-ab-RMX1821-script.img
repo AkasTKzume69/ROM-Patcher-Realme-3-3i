@@ -109,6 +109,11 @@ echo 0 > /proc/cpufreq/cpufreq_cci_mode
 echo 1 > /proc/cpufreq/cpufreq_power_mode
 
 ###################################
+# PPM
+###################################
+echo 0 > /proc/ppm/enabled
+
+###################################
 # Limit CPU frequency
 ###################################
 echo 0 1733000 > /proc/ppm/policy/hard_userlimit_min_cpu_freq # big cluster
@@ -184,7 +189,7 @@ echo 3 > /proc/cpufreq/cpufreq_power_mode
 ###################################
 # PPM
 ###################################
-echo 1 > /proc/ppm/enabled
+echo 0 > /proc/ppm/enabled
 
 ###################################
 # Limit CPU frequency
