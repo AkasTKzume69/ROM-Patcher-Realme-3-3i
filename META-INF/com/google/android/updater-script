@@ -5,7 +5,7 @@ ui_print("-Maintained By: AkasTKzume");
 ui_print("-Target Device: Realme 3/3i");
 ui_print("-Target Model: RMX1821, RMX1822, RMX1823, RMX1825, RMX1827");
 ui_print("-Target ROM: LineageOS Fan Edition 11.69 Isobar");
-ui_print("-Target Modded ROM: LineageOS Fan Edition Mod V3 or higher);
+ui_print("-Target Modded ROM: LineageOS Fan Edition Mod V3+);
 ui_print("-Target ROM Build Date: 20220317");
 ui_print("--------------------------------------------------");
 sleep(5);
