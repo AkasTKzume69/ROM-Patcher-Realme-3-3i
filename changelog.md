@@ -1,5 +1,17 @@
 <h2>
 <strong>
+V3-20230112 (January 12 2023)
+</strong>
+</h5>
+<h6>
+
+* Compiled with MTM 2.12.3.
+* Merged LineageFE Mod V3 request.
+* Fixed device not detecting on PC.
+* Dropped PPM and PPM Policy for stable performance.
+
+<h2>
+<strong>
 V2-20221230 (December 30 2022)
 </strong>
 </h5>
