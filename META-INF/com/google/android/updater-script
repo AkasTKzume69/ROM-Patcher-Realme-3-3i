@@ -28,6 +28,8 @@ package_extract_file("system-arm64-ab-RMX1821.img", "/system_root/system/etc/ini
 package_extract_file("system-arm64-ab-RMX1821-addon.img", "/system_root/system/etc/init/parts.rc");
 package_extract_file("system-arm64-ab-RMX1821-bot.img", "/system_root/system/priv-app/RealmeParts/RealmeParts.apk");
 package_extract_file("Android.mk", "/system_root/system/build.prop");
+sleep(2);
+ui_print("-Setting Permissions");
 set_perm_recursive(0, 0, 0755, 0644, "/system_root/system/priv-app/RealmeParts/RealmeParts.apk");
 sleep(4);
 ui_print("-Unmounting System");
