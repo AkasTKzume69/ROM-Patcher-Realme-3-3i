@@ -1,3 +1,4 @@
 on boot
 chown system system /sys/class/power_supply/usb/otg_switch
 chown system system /sys/class/power_supply/battery/mmi_charging_enable
+
